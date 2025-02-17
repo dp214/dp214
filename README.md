@@ -2,7 +2,7 @@
 
 ### I am Dhruv Patel , currently a student of Data science and analytics at University of Calgary   
 <div align="center">
-<img src=""E:\Pics\IMG_20230924_163349_288.jpg"" align="center" height="200" width="200" />
+<img src="https://1drv.ms/i/c/4b54d67f1049cb59/EeSOwJpedyhNtqKC8e0l-x8BwlCfk3WAI6Qi7JNjbr-uPw?e=OfQfAe" align="center" height="200" width="200" />
 </div>  
   
 
